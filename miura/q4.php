@@ -8,7 +8,7 @@
 $age = 27;
 if ($age<20) {
 	echo "20歳未満は未成年です。";
-}else if($age>20){
+}else {
 	echo "成人です";
 }
 
