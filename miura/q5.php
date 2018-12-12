@@ -8,7 +8,7 @@
 $device="mac";
 if($device=="mac"){
 echo "macです";
-}else if($device==windows){
+}else if($device=="windows"){
 
   echo "winowsです";
 }else{
